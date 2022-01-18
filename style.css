@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+.flex-container {
+    display: flex;
+    margin-top: 110px;
+    margin-left: 510px;
+    margin-right: 510px;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: space-between;
+    background-color: white;
+    padding: 10px;
+}
+
+.flex-item {
+    background-color: rgb(59, 59, 253);
+    width: 112px;
+    height: 112px;
+    margin: 2px;
+    margin-left: 11px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 15px;
+}
+
+.flex-item1 {
+    background-color: yellow;
+    width: 112px;
+    height: 112px;
+    margin: 2px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 15px;
+}
+
+
+
+
